@@ -1,4 +1,6 @@
-# SLEPOIKOT!![slepoikotlogo](https://github.com/eecler/slepoikot-mod/assets/153627142/66323391-7cae-4c72-ae59-bfa218a94b82)
+
+# SLEPOIKOT!![sleepoi](https://github.com/eecler/slepoikot-mod/assets/153627142/4f5bbdc7-5a60-42a2-b337-211f635473ea)
+
 
 My Java and Fabric modding learning project
 
