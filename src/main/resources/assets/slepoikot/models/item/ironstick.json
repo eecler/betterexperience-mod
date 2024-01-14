@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-      "layer0": "slepoikot:item/ironstick"
+    "layer0": "slepoikot:item/iron_stick"
   }
 }

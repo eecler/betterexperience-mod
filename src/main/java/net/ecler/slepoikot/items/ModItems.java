@@ -14,7 +14,7 @@ public class ModItems {
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries)
     {
-     entries.add(IRONSTICK);
+      entries.add(IRONSTICK);
     }
 
     // Item register
