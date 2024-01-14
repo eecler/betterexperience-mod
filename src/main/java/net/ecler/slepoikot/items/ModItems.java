@@ -12,19 +12,13 @@ import net.minecraft.item.Item;
 public class ModItems {
     public static final Item IRONSTICK = registerItem("iron_stick", new Item(new FabricItemSettings()));
 
-    private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries)
-    {
-      entries.add(IRONSTICK);
-    }
 
     // Item register
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(Slepoikot.MOD_ID, name), item);
     }
     public static void registerModItems() {
-        Slepoikot.LOGGER.info(Slepoikot.MOD_ID + "Registering Mod Items");
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientItemGroup);
+        Slepoikot.LOGGER.info(Slepoikot.MOD_ID + " Registering Mod Items");
     }
 
 }
