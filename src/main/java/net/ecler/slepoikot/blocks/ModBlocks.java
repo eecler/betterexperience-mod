@@ -15,7 +15,9 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
 
     public static final Block OAKLOG_IRONFRAME = registerBlock("oaklog_ironframe",
-            new Block(FabricBlockSettings.copyOf(Blocks.OAK_LOG).sounds(BlockSoundGroup.CHERRY_WOOD)));
+            new Block(FabricBlockSettings.copyOf(Blocks.ACACIA_PLANKS).sounds(BlockSoundGroup.WOOD)));
+    public static final Block OAKPLANKS_IRONFRAME = registerBlock("oakplanks_ironframe",
+            new Block(FabricBlockSettings.copyOf(Blocks.ACACIA_PLANKS).sounds(BlockSoundGroup.WOOD)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

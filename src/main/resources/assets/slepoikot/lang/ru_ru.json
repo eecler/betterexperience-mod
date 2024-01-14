@@ -1,6 +1,8 @@
 {
   "item.slepoikot.iron_stick": "Железная палка",
+
   "block.slepoikot.oaklog_ironframe": "Дуб с железным каркасом",
+  "block.slepoikot.oakplanks_ironframe": "Доски дуба с железным каркасом",
 
   "itemgroup.slepoikot": "Slepoikot"
 }

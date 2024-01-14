@@ -22,7 +22,9 @@ public class ModItemsGroups {
                     .icon(() -> new ItemStack(ModItems.IRONSTICK)).entries((displayContext, entries) -> {
                     // Add Items Here
                         entries.add(ModItems.IRONSTICK);
+
                         entries.add(ModBlocks.OAKLOG_IRONFRAME);
+                        entries.add(ModBlocks.OAKPLANKS_IRONFRAME);
                     }).build());
 
 

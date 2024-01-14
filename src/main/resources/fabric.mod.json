@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "slepoikot",
-	"version": "${version}",
+	"version": "0.0.7dev",
 	"name": "Slepoikot",
-	"description": "Kotik slepoy",
+	"description": "My learning project",
 	"authors": [
 		"ecler"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/eecler/slepoikot-mod/",
+		"sources": "https://github.com/eecler/slepoikot-mod/"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/slepoikot/icon.png",
