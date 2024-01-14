@@ -15,9 +15,12 @@ public class Slepoikot implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItemsGroups.registerItemGroups();
+
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 
-		ModItemsGroups.registerItemGroups();
+
 	}
 }

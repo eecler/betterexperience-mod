@@ -1,6 +1,7 @@
 package net.ecler.slepoikot.items;
 
 import net.ecler.slepoikot.Slepoikot;
+import net.ecler.slepoikot.blocks.ModBlocks;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
@@ -21,6 +22,7 @@ public class ModItemsGroups {
                     .icon(() -> new ItemStack(ModItems.IRONSTICK)).entries((displayContext, entries) -> {
                     // Add Items Here
                         entries.add(ModItems.IRONSTICK);
+                        entries.add(ModBlocks.OAKLOG_IRONFRAME);
                     }).build());
 
 
