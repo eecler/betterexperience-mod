@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "slepoikot",
-	"version": "0.0.7dev",
+	"version": "${version}",
 	"name": "Slepoikot",
 	"description": "My learning project",
 	"authors": [
