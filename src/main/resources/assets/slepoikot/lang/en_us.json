@@ -1,4 +1,6 @@
 {
   "item.slepoikot.iron_stick": "Iron Stick",
-  "itemgroup.slepoikot": "Slepoikot dev"
+  "block.slepoikot.oaklog_ironframe": "Oak Log with Iron Frame",
+
+  "itemgroup.slepoikot": "Slepoikot"
 }

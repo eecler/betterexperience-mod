@@ -1,4 +1,6 @@
 {
   "item.slepoikot.iron_stick": "Железная палка",
-  "itemgroup.slepoikot": "СлепойКот dev"
+  "block.slepoikot.oaklog_ironframe": "Дуб с железным каркасом",
+
+  "itemgroup.slepoikot": "Slepoikot"
 }
