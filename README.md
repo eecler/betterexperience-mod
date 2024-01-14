@@ -1,5 +1,4 @@
 # SLEPOIKOT!
-The test modification for Fabric 1.20.1
+My Java and Fabric modding learning project
 
-# LICENSE
-Open Source, grab and make your fun mod.
+You can use this repo for learn purposes
