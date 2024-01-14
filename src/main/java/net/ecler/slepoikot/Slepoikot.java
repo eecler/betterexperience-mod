@@ -1,6 +1,7 @@
 package net.ecler.slepoikot;
 
 import net.ecler.slepoikot.items.ModItems;
+import net.ecler.slepoikot.blocks.ModBlocks;
 import net.ecler.slepoikot.items.ModItemsGroups;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,6 +16,8 @@ public class Slepoikot implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+
 		ModItemsGroups.registerItemGroups();
 	}
 }
