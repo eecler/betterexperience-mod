@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "slepoikot:block/oaklog_ironframe"
+    "all": "slepoikot:block/oakplanks_ironframe"
   }
 }
