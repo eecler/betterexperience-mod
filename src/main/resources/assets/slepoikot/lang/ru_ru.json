@@ -1,5 +1,9 @@
 {
   "item.slepoikot.iron_stick": "Железная палка",
+  "item.slepoikot.ore_finder": "ИскательРуды 3000",
+
+  "slepoikot.ore_finder_dialog1": "Залежи руды не найдены",
+  "slepoikot.ore_finder_dialog2": "Найдено: ",
 
   "block.slepoikot.oaklog_ironframe": "Дуб с железным каркасом",
   "block.slepoikot.oakplanks_ironframe": "Доски дуба с железным каркасом",
