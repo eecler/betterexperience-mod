@@ -8,5 +8,20 @@
   "block.slepoikot.oaklog_ironframe": "Oak Log with Iron Frame",
   "block.slepoikot.oakplanks_ironframe": "Oak Planks with Iron Frame",
 
+  "block.slepoikot.stone_brown": "Brown Stone",
+  "block.slepoikot.stone_cyan": "Cyan Stone",
+  "block.slepoikot.stone_white": "White Stone",
+  "block.slepoikot.stone_lightgray": "Light Gray Stone",
+  "block.slepoikot.stone_lightblue": "Light Blue Stone",
+  "block.slepoikot.stone_black": "Black Stone",
+  "block.slepoikot.stone_purple": "Purple Stone",
+  "block.slepoikot.stone_pink": "Pink Stone",
+  "block.slepoikot.stone_orange": "Orange Stone",
+  "block.slepoikot.stone_yellow": "Yellow Stone",
+  "block.slepoikot.stone_green": "Green Stone",
+  "block.slepoikot.stone_red": "Red Stone",
+  "block.slepoikot.stone_blue": "Blue Stone",
+
+
   "itemgroup.slepoikot": "Slepoikot"
 }

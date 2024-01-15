@@ -26,6 +26,21 @@ public class ModItemsGroups {
 
                         entries.add(ModBlocks.OAKLOG_IRONFRAME);
                         entries.add(ModBlocks.OAKPLANKS_IRONFRAME);
+
+                        // Dyeable Stone
+                        entries.add(ModBlocks.STONE_BLACK);
+                        entries.add(ModBlocks.STONE_BLUE);
+                        entries.add(ModBlocks.STONE_BROWN);
+                        entries.add(ModBlocks.STONE_WHITE);
+                        entries.add(ModBlocks.STONE_LIGHTBLUE);
+                        entries.add(ModBlocks.STONE_LIGHTGRAY);
+                        entries.add(ModBlocks.STONE_PURPLE);
+                        entries.add(ModBlocks.STONE_PINK);
+                        entries.add(ModBlocks.STONE_GREEN);
+                        entries.add(ModBlocks.STONE_ORANGE);
+                        entries.add(ModBlocks.STONE_YELLOW);
+                        entries.add(ModBlocks.STONE_RED);
+                        entries.add(ModBlocks.STONE_CYAN);
                     }).build());
 
 

@@ -8,5 +8,19 @@
   "block.slepoikot.oaklog_ironframe": "Дуб с железным каркасом",
   "block.slepoikot.oakplanks_ironframe": "Доски дуба с железным каркасом",
 
+  "block.slepoikot.stone_brown": "Коричневый камень",
+  "block.slepoikot.stone_cyan": "Бирюзовый камень",
+  "block.slepoikot.stone_white": "Белый камень",
+  "block.slepoikot.stone_lightgray": "Светло-серый камень",
+  "block.slepoikot.stone_lightblue": "Светло-синий камень",
+  "block.slepoikot.stone_black": "Черный камень",
+  "block.slepoikot.stone_purple": "Фиолетовый камень",
+  "block.slepoikot.stone_pink": "Розовый камень",
+  "block.slepoikot.stone_orange": "Оранжевый камень",
+  "block.slepoikot.stone_yellow": "Желтый камень",
+  "block.slepoikot.stone_green": "Зелёный камень",
+  "block.slepoikot.stone_red": "Красный камень",
+  "block.slepoikot.stone_blue": "Синий камень",
+
   "itemgroup.slepoikot": "Slepoikot"
 }
