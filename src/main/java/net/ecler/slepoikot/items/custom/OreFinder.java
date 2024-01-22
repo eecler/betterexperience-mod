@@ -5,6 +5,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemUsageContext;
+import net.minecraft.text.MutableText;
 import net.minecraft.text.Text;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.math.BlockPos;
@@ -49,10 +50,15 @@ public class OreFinder extends Item {
     }
 
     private void outputValuableCoordinates(BlockPos blockPos, PlayerEntity player, Block block) {
-        player.sendMessage(Text.literal(block.asItem().getName().getString() + " at " +
+        player.sendMessage(Text.literal(block.asItem().getName().getString() + getCurrentDialogStr("slepoikot.ore_finder_dialog2") +
                 "(" + blockPos.getX() + "," + blockPos.getY() + "," + blockPos.getZ() + ")"), false);
     }
 
+    private String getCurrentDialogStr(String key) {
+        MutableText str = Text.translatable(key);
+
+        return str.toString();
+    }
     private boolean isValuableBlock(BlockState state) {
         return state.isOf(Blocks.IRON_ORE) || state.isOf(Blocks.GOLD_ORE);
     }

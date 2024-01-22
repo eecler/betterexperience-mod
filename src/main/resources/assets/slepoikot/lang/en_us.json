@@ -3,7 +3,7 @@
   "item.slepoikot.ore_finder": "Ore Finder 3000",
 
   "slepoikot.ore_finder_dialog1": "No valuables found",
-  "slepoikot.ore_finder_dialog2": "Found: ",
+  "slepoikot.ore_finder_dialog2": " at ",
 
   "block.slepoikot.oaklog_ironframe": "Oak Log with Iron Frame",
   "block.slepoikot.oakplanks_ironframe": "Oak Planks with Iron Frame",
@@ -23,5 +23,5 @@
   "block.slepoikot.stone_blue": "Blue Stone",
 
 
-  "itemgroup.slepoikot": "Slepoikot"
+  "itemgroup.slepoikot": "Better Experience"
 }

@@ -3,7 +3,7 @@
   "item.slepoikot.ore_finder": "ИскательРуды 3000",
 
   "slepoikot.ore_finder_dialog1": "Залежи руды не найдены",
-  "slepoikot.ore_finder_dialog2": "Найдено: ",
+  "slepoikot.ore_finder_dialog2": " на ",
 
   "block.slepoikot.oaklog_ironframe": "Дуб с железным каркасом",
   "block.slepoikot.oakplanks_ironframe": "Доски дуба с железным каркасом",
@@ -22,5 +22,5 @@
   "block.slepoikot.stone_red": "Красный камень",
   "block.slepoikot.stone_blue": "Синий камень",
 
-  "itemgroup.slepoikot": "Slepoikot"
+  "itemgroup.slepoikot": "Better Experience"
 }
