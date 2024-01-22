@@ -2,6 +2,20 @@
   "replace": false,
   "values": [
     "slepoikot:oaklog_ironframe",
-    "slepoikot:oakplanks_ironframe"
+    "slepoikot:oakplanks_ironframe",
+
+
+    "slepoikot:stone_black",
+    "slepoikot:stone_blue",
+    "slepoikot:stone_brown",
+    "slepoikot:stone_cyan",
+    "slepoikot:stone_green",
+    "slepoikot:stone_lightblue",
+    "slepoikot:stone_lime",
+    "slepoikot:stone_pink",
+    "slepoikot:stone_purple",
+    "slepoikot:stone_red",
+    "slepoikot:stone_white",
+    "slepoikot:stone_yellow"
   ]
 }

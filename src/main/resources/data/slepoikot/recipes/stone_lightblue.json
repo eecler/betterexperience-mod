@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:stone",
+      "item": "minecraft:lightblue_dye"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:ruby",
+    "count": 9
+  }
+}
