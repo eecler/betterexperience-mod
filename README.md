@@ -1,6 +1,4 @@
-
-# SLEPOIKOT!![sleepoi](https://github.com/eecler/slepoikot-mod/assets/153627142/4f5bbdc7-5a60-42a2-b337-211f635473ea)
-
+Better Experience mod for Minecraft Fabric 1.20.x - 1.21.x
 
 My Java and Fabric modding learning project
 
